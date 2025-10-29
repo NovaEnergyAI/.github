@@ -18,10 +18,10 @@ After spinning out from Protocol Labs in March 2024, we worked to create an ecos
 Nova Energy created a complete platform for Environmental Validation Process (EVP) reporting and sustainability tracking:
 
 ### Core Features
-- **🌱 Green Score Calculator**: Sophisticated environmental impact assessment based on hardware efficiency, energy patterns, renewable procurement, and geographic factors
-- **⚡ Energy Validation Portal**: Multi-stakeholder workflow for submitting, reviewing, and attesting to energy and environmental data
-- **🏆 Achievement System**: NFT badges and on-chain attestations for sustainability milestones
-- **🔗 Web3 Integrations**: Native support for Ethereum Attestation Service, Ceramic Network, and Filecoin ecosystem
+- **Green Score Calculator**: Sophisticated environmental impact assessment based on hardware efficiency, energy patterns, renewable procurement, and geographic factors
+- **Energy Validation Portal**: Multi-stakeholder workflow for submitting, reviewing, and attesting to energy and environmental data
+- **Verifiable Claims**: NFT badges and on-chain attestations for sustainability milestones
+- **Web3 Integrations**: Native support for Ethereum Attestation Service, Ceramic Network, and Filecoin ecosystem
 
 ## 📦 Open Source Repositories
 
